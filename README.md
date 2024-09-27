@@ -6,5 +6,5 @@ A simple Quiz android app using flutter.
 * Calculates the quiz's' score.
 
   ## APP Preview
-![Preview]()
+![Preview](https://github.com/Nour2912/quiz-app/blob/main/Preview.gif)
 
